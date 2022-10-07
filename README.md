@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandan-M
 - 👀 I’m interested in product development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me mungandlanandan@gmail.com
 
 <!---
